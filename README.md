@@ -3,7 +3,7 @@ Built cloud SIEM using Azure sentinel
 
 # Azure Sentinel (SIEM) - Cloud Security Detection Lab
 
-## 📝 Project Overview
+##  Project Overview
 This project focuses on building a cloud-native SIEM (Security Information and Event Management) solution using **Microsoft Sentinel**. The primary objective was to detect and investigate unauthorized resource deployments (specifically Azure Key Vaults) within a cloud environment. I ingested Azure Activity Logs, configured custom analytics rules using **KQL (Kusto Query Language)**, and successfully simulated an attack to validate the detection pipeline.
 
 ###  Technologies Used
