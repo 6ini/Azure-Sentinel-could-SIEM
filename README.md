@@ -1,4 +1,4 @@
-# Azure-Sentinel-could-SIEM
+# Azure-Sentinel-Cloud-SIEM
 Built cloud SIEM using Azure sentinel
 
 # Azure Sentinel (SIEM) - Cloud Security Detection Lab
